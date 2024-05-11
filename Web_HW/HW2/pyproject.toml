@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "hw2"
+version = "1"
+description = "homework project"
+authors = ["Your Name <you@example.com>"]
+license = "No"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.12.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
